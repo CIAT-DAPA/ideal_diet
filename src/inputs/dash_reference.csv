@@ -1,19 +1,13 @@
-food_group,d_g,kcal,,
-Non-food,0,,,
-Beverages Alcoholic,0,,,
-Fats & Oils,26,,,
-Fruits,281,,,
-Meats,139,,,
-Vegetables,345,,,
-Miscellaneous,0,,,
-Grains,283,,,
-Starchy Staples,,,,
-Spices,0,,,
-Legumes,36,,,
-Nuts & Seeds,,,,
-Beverages Non-Alcoholic ,0,,,
-Dairy,485,,,
-Sugars,22,,,
-Infant food,0,,,
-Miscellaneous - FG,0,,,
-Grand Total,,,,
+food_group,M646,M664,Type
+Vegetables,345,160,A
+Fruits,281,203,A
+Dairy,485,409,A
+Fats & Oils,26,98,B
+Meats,139,300,B
+Grains (Starchy staples),283,813,A
+"Legumes, Nuts & Seeds",36,117,A
+Sugars,22,0,B
+Spices,0,0,B
+Miscellaneous,0,0,B
+Alcohol,0,0,B
+Grand Total,1617,2100,
