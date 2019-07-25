@@ -10,17 +10,6 @@ Afghanistan,Miscellaneous,,
 Afghanistan,Spices,1.030535492,0.756363636
 Afghanistan,Sugars,7.575077236,26.71314224
 Afghanistan,Vegetables,89.21579963,18.9289103
-Africa,Alcohol,98.29564944,44.20276638
-Africa,Dairy,106.9830767,65.9892973
-Africa,Fats & Oils,15.07320366,130.5492724
-Africa,Fruits,195.8284507,83.49334729
-Africa,Grains (Starchy staples),719.9750219,1468.524257
-Africa,"Legumes, Nuts & Seeds",52.28540489,182.577085
-Africa,Meats,78.96603873,104.5718064
-Africa,Miscellaneous,,
-Africa,Spices,12.96303525,23.01392943
-Africa,Sugars,57.72841416,152.2079261
-Africa,Vegetables,139.0451271,38.46802395
 Albania,Alcohol,75.06710595,51.60216998
 Albania,Dairy,792.5552642,508.2422465
 Albania,Fats & Oils,4.335720216,36.34090909
@@ -43,17 +32,6 @@ Algeria,Miscellaneous,,
 Algeria,Spices,0.907031964,1.266666667
 Algeria,Sugars,0.301556009,1.025077208
 Algeria,Vegetables,326.1368749,91.10251382
-Americas,Alcohol,187.9694599,104.2699625
-Americas,Dairy,459.5063809,251.14362
-Americas,Fats & Oils,73.79711768,611.9069174
-Americas,Fruits,381.5760567,134.5205381
-Americas,Grains (Starchy staples),560.1211822,1234.752712
-Americas,"Legumes, Nuts & Seeds",75.4863181,228.6553338
-Americas,Meats,363.536755,505.3871709
-Americas,Miscellaneous,,
-Americas,Spices,19.68927327,22.87819889
-Americas,Sugars,150.228452,491.4651869
-Americas,Vegetables,149.4729927,40.5160944
 Angola,Alcohol,164.1108756,85.15501362
 Angola,Dairy,23.12439977,13.7398521
 Angola,Fats & Oils,8.727561398,76.34647256
@@ -98,17 +76,6 @@ Armenia,Miscellaneous,,
 Armenia,Spices,0,0
 Armenia,Sugars,35.29007721,120.0149933
 Armenia,Vegetables,635.5475791,140.7172619
-Asia,Alcohol,52.33656201,45.54869143
-Asia,Dairy,148.2551093,88.12181417
-Asia,Fats & Oils,33.9299335,290.5927904
-Asia,Fruits,239.3723287,93.1641651
-Asia,Grains (Starchy staples),523.0589228,1449.223797
-Asia,"Legumes, Nuts & Seeds",32.52674002,99.64375306
-Asia,Meats,167.2794775,277.2118742
-Asia,Miscellaneous,,
-Asia,Spices,9.299520624,17.98782018
-Asia,Sugars,60.29832303,166.5611871
-Asia,Vegetables,422.1955609,108.857931
 Australia,Alcohol,333.2524076,150.2613513
 Australia,Dairy,977.4685086,499.2300719
 Australia,Fats & Oils,108.747947,898.7880505
@@ -120,17 +87,6 @@ Australia,Miscellaneous,,
 Australia,Spices,0.361803431,0.399029126
 Australia,Sugars,135.1451086,417.630876
 Australia,Vegetables,177.9512822,53.97392224
-Australia & New Zealand,Alcohol,323.9233827,148.4093715
-Australia & New Zealand,Dairy,1729.102844,874.9393765
-Australia & New Zealand,Fats & Oils,125.5120844,1036.132166
-Australia & New Zealand,Fruits,317.5311696,121.5702435
-Australia & New Zealand,Grains (Starchy staples),988.5361205,2045.117048
-Australia & New Zealand,"Legumes, Nuts & Seeds",83.44756424,200.2057355
-Australia & New Zealand,Meats,636.1168549,834.0190572
-Australia & New Zealand,Miscellaneous,,
-Australia & New Zealand,Spices,0.288933098,0.316182573
-Australia & New Zealand,Sugars,139.9163405,443.8606908
-Australia & New Zealand,Vegetables,229.0098123,68.48883339
 Austria,Alcohol,368.5074782,226.9464244
 Austria,Dairy,909.2626076,391.2104724
 Austria,Fats & Oils,64.05888936,535.1706516
@@ -208,17 +164,6 @@ Belgium,Miscellaneous,,
 Belgium,Spices,0,0
 Belgium,Sugars,141.464669,478.9656861
 Belgium,Vegetables,396.753003,140.1220521
-Belgium-Luxembourg,Alcohol,,
-Belgium-Luxembourg,Dairy,,
-Belgium-Luxembourg,Fats & Oils,,
-Belgium-Luxembourg,Fruits,,
-Belgium-Luxembourg,Grains (Starchy staples),,
-Belgium-Luxembourg,"Legumes, Nuts & Seeds",,
-Belgium-Luxembourg,Meats,,
-Belgium-Luxembourg,Miscellaneous,,
-Belgium-Luxembourg,Spices,,
-Belgium-Luxembourg,Sugars,,
-Belgium-Luxembourg,Vegetables,,
 Belize,Alcohol,87.87599134,66.61052632
 Belize,Dairy,36.21688024,21.98225806
 Belize,Fats & Oils,1.361549363,10.89655172
@@ -373,17 +318,6 @@ Canada,Miscellaneous,,
 Canada,Spices,0.745830958,0.633769322
 Canada,Sugars,69.37886437,230.0310013
 Canada,Vegetables,140.1299075,39.89275602
-Caribbean,Alcohol,89.28360042,80.52892562
-Caribbean,Dairy,104.7115348,62.36209461
-Caribbean,Fats & Oils,7.965071511,69.26580396
-Caribbean,Fruits,373.9768011,130.5239437
-Caribbean,Grains (Starchy staples),325.9401053,671.4102462
-Caribbean,"Legumes, Nuts & Seeds",38.83093243,112.5336865
-Caribbean,Meats,110.4567548,160.8653504
-Caribbean,Miscellaneous,,
-Caribbean,Spices,11.87673716,16.08308157
-Caribbean,Sugars,111.9036117,390.4795737
-Caribbean,Vegetables,125.322939,33.46195182
 Central African Republic,Alcohol,54.54673024,22.49667406
 Central African Republic,Dairy,42.97825165,26.78969072
 Central African Republic,Fats & Oils,31.67015242,278.478169
@@ -395,28 +329,6 @@ Central African Republic,Miscellaneous,,
 Central African Republic,Spices,3.70315664,1.765217391
 Central African Republic,Sugars,21.79360731,73.76507937
 Central African Republic,Vegetables,54.36712329,11.37477876
-Central America,Alcohol,159.5871757,67.03404255
-Central America,Dairy,231.0225398,127.6988677
-Central America,Fats & Oils,24.78470907,210.2740097
-Central America,Fruits,432.1916002,147.0687305
-Central America,Grains (Starchy staples),308.8682397,864.711215
-Central America,"Legumes, Nuts & Seeds",18.81040567,65.56450473
-Central America,Meats,205.4095524,305.8456453
-Central America,Miscellaneous,,
-Central America,Spices,20.9563679,36.51257143
-Central America,Sugars,136.630701,470.4582494
-Central America,Vegetables,184.5435535,52.54008512
-Central Asia,Alcohol,41.3402896,40.06758008
-Central Asia,Dairy,446.6341276,272.9848636
-Central Asia,Fats & Oils,24.77878317,211.966639
-Central Asia,Fruits,317.2014648,106.780403
-Central Asia,Grains (Starchy staples),701.2757084,1555.044199
-Central Asia,"Legumes, Nuts & Seeds",7.667770138,23.85403289
-Central Asia,Meats,127.8703187,238.2399979
-Central Asia,Miscellaneous,,
-Central Asia,Spices,0.394520548,1.125
-Central Asia,Sugars,13.27095654,46.98845388
-Central Asia,Vegetables,403.5272398,108.7215906
 Chad,Alcohol,14.44180318,5.52462908
 Chad,Dairy,57.20298073,38.31555243
 Chad,Fats & Oils,9.743631068,85.97104072
@@ -571,17 +483,6 @@ Czechia,Miscellaneous,,
 Czechia,Spices,0.722300096,1.684883721
 Czechia,Sugars,111.7879438,371.8817661
 Czechia,Vegetables,43.59268398,12.07660227
-Czechoslovakia,Alcohol,,
-Czechoslovakia,Dairy,,
-Czechoslovakia,Fats & Oils,,
-Czechoslovakia,Fruits,,
-Czechoslovakia,Grains (Starchy staples),,
-Czechoslovakia,"Legumes, Nuts & Seeds",,
-Czechoslovakia,Meats,,
-Czechoslovakia,Miscellaneous,,
-Czechoslovakia,Spices,,
-Czechoslovakia,Sugars,,
-Czechoslovakia,Vegetables,,
 Côte d'Ivoire,Alcohol,116.2740692,52.56264501
 Côte d'Ivoire,Dairy,4.335862311,2.941025641
 Côte d'Ivoire,Fats & Oils,59.42164454,520.3677519
@@ -646,39 +547,6 @@ Dominican Republic,Miscellaneous,,
 Dominican Republic,Spices,24.59058964,29.16645963
 Dominican Republic,Sugars,95.42486822,333.018417
 Dominican Republic,Vegetables,77.23027335,23.93665158
-Eastern Africa,Alcohol,80.65884195,34.32360942
-Eastern Africa,Dairy,108.0050313,64.61641823
-Eastern Africa,Fats & Oils,6.41906121,56.00540958
-Eastern Africa,Fruits,124.4659124,62.39954431
-Eastern Africa,Grains (Starchy staples),711.0037857,1426.207951
-Eastern Africa,"Legumes, Nuts & Seeds",68.84284867,237.0662841
-Eastern Africa,Meats,50.13781033,76.74962742
-Eastern Africa,Miscellaneous,,
-Eastern Africa,Spices,13.0617376,19.45932337
-Eastern Africa,Sugars,44.32296325,105.8140477
-Eastern Africa,Vegetables,68.34700528,18.62454492
-Eastern Asia,Alcohol,116.2825194,94.62974438
-Eastern Asia,Dairy,80.80220823,51.46280932
-Eastern Asia,Fats & Oils,19.63524596,166.7300698
-Eastern Asia,Fruits,293.1778997,102.2864146
-Eastern Asia,Grains (Starchy staples),517.2611635,1380.326566
-Eastern Asia,"Legumes, Nuts & Seeds",16.4040491,60.21946978
-Eastern Asia,Meats,290.3696833,525.3675347
-Eastern Asia,Miscellaneous,,
-Eastern Asia,Spices,4.724233815,5.907821302
-Eastern Asia,Sugars,25.65567863,89.10154973
-Eastern Asia,Vegetables,798.2558405,203.09609
-Eastern Europe,Alcohol,244.9350125,175.9506756
-Eastern Europe,Dairy,505.9107189,299.1685499
-Eastern Europe,Fats & Oils,67.6317285,559.8129935
-Eastern Europe,Fruits,162.3072818,59.05662596
-Eastern Europe,Grains (Starchy staples),860.956249,1629.60667
-Eastern Europe,"Legumes, Nuts & Seeds",16.00980696,49.22902162
-Eastern Europe,Meats,249.5031628,357.9895522
-Eastern Europe,Miscellaneous,,
-Eastern Europe,Spices,1.233580811,2.004568818
-Eastern Europe,Sugars,118.6749293,396.3664308
-Eastern Europe,Vegetables,237.502079,63.54231326
 Ecuador,Alcohol,103.5804882,50.05477793
 Ecuador,Dairy,369.9252678,221.1178416
 Ecuador,Fats & Oils,69.2748626,587.9162199
@@ -745,39 +613,6 @@ Ethiopia,Miscellaneous,,
 Ethiopia,Spices,13.23326922,27.84947469
 Ethiopia,Sugars,15.64055219,54.81208132
 Ethiopia,Vegetables,50.89267503,18.10593428
-Ethiopia PDR,Alcohol,,
-Ethiopia PDR,Dairy,,
-Ethiopia PDR,Fats & Oils,,
-Ethiopia PDR,Fruits,,
-Ethiopia PDR,Grains (Starchy staples),,
-Ethiopia PDR,"Legumes, Nuts & Seeds",,
-Ethiopia PDR,Meats,,
-Ethiopia PDR,Miscellaneous,,
-Ethiopia PDR,Spices,,
-Ethiopia PDR,Sugars,,
-Ethiopia PDR,Vegetables,,
-Europe,Alcohol,269.2457771,182.1575038
-Europe,Dairy,652.594092,348.5933661
-Europe,Fats & Oils,59.16443527,490.4445063
-Europe,Fruits,251.4045959,91.20531172
-Europe,Grains (Starchy staples),659.1869517,1292.706934
-Europe,"Legumes, Nuts & Seeds",20.66158897,57.86219097
-Europe,Meats,301.417255,437.5296844
-Europe,Miscellaneous,,
-Europe,Spices,0.712640267,1.094986571
-Europe,Sugars,110.4407426,375.9694522
-Europe,Vegetables,232.0260309,63.9663223
-European Union,Alcohol,294.7573262,188.1064238
-European Union,Dairy,728.546156,373.2046574
-European Union,Fats & Oils,59.43331237,490.5781238
-European Union,Fruits,292.0438358,105.5552909
-European Union,Grains (Starchy staples),579.7824898,1162.360756
-European Union,"Legumes, Nuts & Seeds",21.27935079,57.69016785
-European Union,Meats,312.2311355,457.1517118
-European Union,Miscellaneous,,
-European Union,Spices,0.734443107,1.119420428
-European Union,Sugars,104.3336164,362.655625
-European Union,Vegetables,230.728696,64.13177817
 Fiji,Alcohol,77.5642456,42.75971223
 Fiji,Dairy,71.59052949,44.65191147
 Fiji,Fats & Oils,12.52161537,103.4285714
@@ -1152,17 +987,6 @@ Kyrgyzstan,Miscellaneous,,
 Kyrgyzstan,Spices,0.513286021,2.120481928
 Kyrgyzstan,Sugars,39.3499521,130.5026676
 Kyrgyzstan,Vegetables,368.8325732,109.3230769
-Land Locked Developing Countries,Alcohol,76.61295375,38.8357871
-Land Locked Developing Countries,Dairy,174.261974,108.4589559
-Land Locked Developing Countries,Fats & Oils,14.83394357,128.040153
-Land Locked Developing Countries,Fruits,141.6351977,61.50843455
-Land Locked Developing Countries,Grains (Starchy staples),677.1525629,1541.730732
-Land Locked Developing Countries,"Legumes, Nuts & Seeds",57.09543251,209.425415
-Land Locked Developing Countries,Meats,74.76514823,122.365007
-Land Locked Developing Countries,Miscellaneous,,
-Land Locked Developing Countries,Spices,8.215123423,17.18420959
-Land Locked Developing Countries,Sugars,38.44483273,107.4697089
-Land Locked Developing Countries,Vegetables,155.0192553,40.06341792
 Lao People's Democratic Republic,Alcohol,34.72524974,49.47379913
 Lao People's Democratic Republic,Dairy,2.464023071,1.957894737
 Lao People's Democratic Republic,Fats & Oils,7.671232875,64.4
@@ -1185,17 +1009,6 @@ Latvia,Miscellaneous,,
 Latvia,Spices,0,0
 Latvia,Sugars,2.187216365,6.967370441
 Latvia,Vegetables,184.537888,46.94846293
-Least Developed Countries,Alcohol,53.15595213,22.20644315
-Least Developed Countries,Dairy,94.36308619,61.27789209
-Least Developed Countries,Fats & Oils,8.962794623,78.45940535
-Least Developed Countries,Fruits,104.8940826,50.89480881
-Least Developed Countries,Grains (Starchy staples),641.1553818,1535.225055
-Least Developed Countries,"Legumes, Nuts & Seeds",52.73795285,185.1401359
-Least Developed Countries,Meats,79.99862531,104.920231
-Least Developed Countries,Miscellaneous,,
-Least Developed Countries,Spices,7.969675831,17.00837095
-Least Developed Countries,Sugars,37.7029186,103.8260128
-Least Developed Countries,Vegetables,98.12945134,27.8002157
 Lebanon,Alcohol,27.73674623,26.60412371
 Lebanon,Dairy,127.342425,68.6051441
 Lebanon,Fats & Oils,13.41592592,116.6597938
@@ -1240,17 +1053,6 @@ Lithuania,Miscellaneous,,
 Lithuania,Spices,1.782683868,1.669902913
 Lithuania,Sugars,128.6128048,398.2939075
 Lithuania,Vegetables,208.6628124,56.98735701
-Low Income Food Deficit Countries,Alcohol,34.53839251,20.04814737
-Low Income Food Deficit Countries,Dairy,192.0314655,113.993904
-Low Income Food Deficit Countries,Fats & Oils,17.3064289,149.3330384
-Low Income Food Deficit Countries,Fruits,151.5332066,62.56337387
-Low Income Food Deficit Countries,Grains (Starchy staples),597.9841159,1482.275335
-Low Income Food Deficit Countries,"Legumes, Nuts & Seeds",51.25773933,164.6115385
-Low Income Food Deficit Countries,Meats,49.42044775,60.88198844
-Low Income Food Deficit Countries,Miscellaneous,,
-Low Income Food Deficit Countries,Spices,11.84420116,28.41352708
-Low Income Food Deficit Countries,Sugars,70.45681642,181.0483544
-Low Income Food Deficit Countries,Vegetables,151.2366544,40.92142289
 Luxembourg,Alcohol,218.2146586,165.979562
 Luxembourg,Dairy,1279.302312,709.0379437
 Luxembourg,Fats & Oils,9.354289834,78.61052632
@@ -1350,17 +1152,6 @@ Mauritius,Miscellaneous,,
 Mauritius,Spices,6.628424658,18.2875
 Mauritius,Sugars,98.97846701,352.8809232
 Mauritius,Vegetables,120.5149053,35.28287841
-Melanesia,Alcohol,57.79139494,33.75774648
-Melanesia,Dairy,52.89475169,34.7654321
-Melanesia,Fats & Oils,44.31984802,368.6781022
-Melanesia,Fruits,99.6641853,36.55723684
-Melanesia,Grains (Starchy staples),482.1397237,825.4876392
-Melanesia,"Legumes, Nuts & Seeds",259.9526751,367.3269214
-Melanesia,Meats,224.4218075,308.0217749
-Melanesia,Miscellaneous,,
-Melanesia,Spices,10.42906492,23.29565217
-Melanesia,Sugars,74.90460187,240.3323962
-Melanesia,Vegetables,66.44776184,20.34278215
 Mexico,Alcohol,196.009362,73.94668438
 Mexico,Dairy,234.0121779,125.3004754
 Mexico,Fats & Oils,19.49501943,165.2621768
@@ -1372,28 +1163,6 @@ Mexico,Miscellaneous,,
 Mexico,Spices,9.562524386,19.20670221
 Mexico,Sugars,135.3866348,462.8992074
 Mexico,Vegetables,198.8132304,56.93521474
-Micronesia,Alcohol,0,0
-Micronesia,Dairy,0,0
-Micronesia,Fats & Oils,41.30547944,354.35
-Micronesia,Fruits,200.0740394,107.4878049
-Micronesia,Grains (Starchy staples),278.5135414,568.904918
-Micronesia,"Legumes, Nuts & Seeds",370.6946712,688.7503234
-Micronesia,Meats,682.8300274,737.296
-Micronesia,Miscellaneous,,
-Micronesia,Spices,,
-Micronesia,Sugars,0,0
-Micronesia,Vegetables,148.7720548,35.084
-Middle Africa,Alcohol,135.1232146,63.84108385
-Middle Africa,Dairy,31.65746789,20.58062284
-Middle Africa,Fats & Oils,15.83780822,139.5458233
-Middle Africa,Fruits,188.0617621,87.57125059
-Middle Africa,Grains (Starchy staples),808.2441933,1358.603417
-Middle Africa,"Legumes, Nuts & Seeds",59.37030156,236.6052151
-Middle Africa,Meats,67.83977019,88.38048706
-Middle Africa,Miscellaneous,,
-Middle Africa,Spices,12.1837228,24.22145329
-Middle Africa,Sugars,42.33271472,101.4890383
-Middle Africa,Vegetables,131.0021526,29.50377562
 Mongolia,Alcohol,65.90528375,52.61176471
 Mongolia,Dairy,360.4546783,228.2520295
 Mongolia,Fats & Oils,10.6478035,92.32758621
@@ -1471,17 +1240,6 @@ Nepal,Miscellaneous,,
 Nepal,Spices,15.12699525,47.32588513
 Nepal,Sugars,113.9355112,72.95870457
 Nepal,Vegetables,290.7141595,70.10221112
-Net Food Importing Developing Countries,Alcohol,48.75437714,23.68571257
-Net Food Importing Developing Countries,Dairy,167.0673459,103.6480134
-Net Food Importing Developing Countries,Fats & Oils,12.45326356,106.4844466
-Net Food Importing Developing Countries,Fruits,161.9729644,69.93057641
-Net Food Importing Developing Countries,Grains (Starchy staples),571.0593211,1383.076345
-Net Food Importing Developing Countries,"Legumes, Nuts & Seeds",43.80765038,143.2804449
-Net Food Importing Developing Countries,Meats,104.37803,134.1385591
-Net Food Importing Developing Countries,Miscellaneous,,
-Net Food Importing Developing Countries,Spices,12.51227829,23.90255535
-Net Food Importing Developing Countries,Sugars,72.27843142,180.8371018
-Net Food Importing Developing Countries,Vegetables,122.7599641,34.6057683
 Netherlands,Alcohol,425.8725812,263.3012647
 Netherlands,Dairy,1718.930338,836.2901523
 Netherlands,Fats & Oils,50.57534811,423.7434258
@@ -1570,39 +1328,6 @@ North Macedonia,Miscellaneous,,
 North Macedonia,Spices,7.86223092,18.91428571
 North Macedonia,Sugars,15.36675878,52.54506438
 North Macedonia,Vegetables,572.7135703,146.4092202
-Northern Africa,Alcohol,17.98675731,8.28594529
-Northern Africa,Dairy,226.7796176,142.0286445
-Northern Africa,Fats & Oils,11.64298789,100.2683334
-Northern Africa,Fruits,419.1754575,185.7414736
-Northern Africa,Grains (Starchy staples),423.0352452,1128.167847
-Northern Africa,"Legumes, Nuts & Seeds",25.87388071,81.85869705
-Northern Africa,Meats,122.7304097,160.1941495
-Northern Africa,Miscellaneous,,
-Northern Africa,Spices,2.550235784,3.843384189
-Northern Africa,Sugars,118.3237892,282.8650901
-Northern Africa,Vegetables,301.1255954,83.90457712
-Northern America,Alcohol,226.9519478,136.9893806
-Northern America,Dairy,702.4617216,369.8204111
-Northern America,Fats & Oils,105.2409908,853.8637657
-Northern America,Fruits,289.8174719,96.642879
-Northern America,Grains (Starchy staples),566.4467661,1124.051506
-Northern America,"Legumes, Nuts & Seeds",69.94729323,254.7716351
-Northern America,Meats,447.5317261,554.2518824
-Northern America,Miscellaneous,,
-Northern America,Spices,0.098861948,0.117990142
-Northern America,Sugars,163.8033874,559.4887738
-Northern America,Vegetables,183.0781241,45.81320862
-Northern Europe,Alcohol,249.1875512,154.1957804
-Northern Europe,Dairy,811.2299698,415.5915246
-Northern Europe,Fats & Oils,35.78905032,304.5896648
-Northern Europe,Fruits,24.11829778,8.342740675
-Northern Europe,Grains (Starchy staples),565.4651736,1058.272508
-Northern Europe,"Legumes, Nuts & Seeds",17.71460078,56.34873302
-Northern Europe,Meats,380.0565961,613.1209036
-Northern Europe,Miscellaneous,,
-Northern Europe,Spices,0.055260626,0.102077151
-Northern Europe,Sugars,96.13501006,329.8245451
-Northern Europe,Vegetables,107.7752034,31.2289963
 Norway,Alcohol,133.0155251,81.6
 Norway,Dairy,751.5498859,381.9418209
 Norway,Fats & Oils,21.39749784,179.6104196
@@ -1614,17 +1339,6 @@ Norway,Miscellaneous,,
 Norway,Spices,0,0
 Norway,Sugars,2.981877689,8.831599229
 Norway,Vegetables,104.4816228,29.63856613
-Oceania,Alcohol,302.2404018,139.1821162
-Oceania,Dairy,1590.045127,809.8027477
-Oceania,Fats & Oils,118.5310583,981.4625125
-Oceania,Fruits,304.4376332,116.7569987
-Oceania,Grains (Starchy staples),1017.630844,2059.066257
-Oceania,"Legumes, Nuts & Seeds",101.3854292,206.6768047
-Oceania,Meats,601.431777,789.9249539
-Oceania,Miscellaneous,,
-Oceania,Spices,1.307684834,1.513002364
-Oceania,Sugars,134.8685099,427.8119322
-Oceania,Vegetables,215.1319639,64.42211612
 Oman,Alcohol,0,0
 Oman,Dairy,140.4257071,93.27736318
 Oman,Fats & Oils,3.40530822,29.64375
@@ -1702,17 +1416,6 @@ Poland,Miscellaneous,,
 Poland,Spices,0,0
 Poland,Sugars,121.1487039,428.681939
 Poland,Vegetables,306.5881756,77.17242836
-Polynesia,Alcohol,113.4317692,58.86950355
-Polynesia,Dairy,15.92297984,10.13033708
-Polynesia,Fats & Oils,52.20352251,436.922449
-Polynesia,Fruits,305.9842687,117.4193548
-Polynesia,Grains (Starchy staples),153.2730778,289.5676768
-Polynesia,"Legumes, Nuts & Seeds",273.8674646,339.3053628
-Polynesia,Meats,171.7746119,241.7693333
-Polynesia,Miscellaneous,,
-Polynesia,Spices,1.209589041,2.125
-Polynesia,Sugars,11.63727824,30.05901639
-Polynesia,Vegetables,37.82774701,12.28723404
 Portugal,Alcohol,353.9792567,280.0862475
 Portugal,Dairy,479.6091768,213.4926708
 Portugal,Fats & Oils,63.61182006,521.86461
@@ -1867,17 +1570,6 @@ Serbia,Miscellaneous,,
 Serbia,Spices,1.448436288,2.698113208
 Serbia,Sugars,89.18622023,313.4075556
 Serbia,Vegetables,268.4245362,69.47817998
-Serbia and Montenegro,Alcohol,,
-Serbia and Montenegro,Dairy,,
-Serbia and Montenegro,Fats & Oils,,
-Serbia and Montenegro,Fruits,,
-Serbia and Montenegro,Grains (Starchy staples),,
-Serbia and Montenegro,"Legumes, Nuts & Seeds",,
-Serbia and Montenegro,Meats,,
-Serbia and Montenegro,Miscellaneous,,
-Serbia and Montenegro,Spices,,
-Serbia and Montenegro,Sugars,,
-Serbia and Montenegro,Vegetables,,
 Sierra Leone,Alcohol,115.8804452,49.1728125
 Sierra Leone,Dairy,12.57166224,7.661691542
 Sierra Leone,Fats & Oils,33.24668349,292.1082237
@@ -1911,17 +1603,6 @@ Slovenia,Miscellaneous,,
 Slovenia,Spices,1.318661577,3.155737705
 Slovenia,Sugars,10.86179896,34.26871401
 Slovenia,Vegetables,79.47528217,21.85308176
-Small Island Developing States,Alcohol,82.13292343,70.29055338
-Small Island Developing States,Dairy,92.09080789,54.73483508
-Small Island Developing States,Fats & Oils,10.95010346,94.76660293
-Small Island Developing States,Fruits,346.1719567,121.3166635
-Small Island Developing States,Grains (Starchy staples),340.1046677,715.703857
-Small Island Developing States,"Legumes, Nuts & Seeds",63.58188828,165.0953398
-Small Island Developing States,Meats,130.590991,186.7276405
-Small Island Developing States,Miscellaneous,,
-Small Island Developing States,Spices,11.36655765,16.72525952
-Small Island Developing States,Sugars,105.5753949,365.441502
-Small Island Developing States,Vegetables,118.4602283,32.23535327
 Solomon Islands,Alcohol,30.08219178,13.6
 Solomon Islands,Dairy,5.506849315,3.409090909
 Solomon Islands,Fats & Oils,43.38059361,361.8583333
@@ -1944,61 +1625,6 @@ South Africa,Miscellaneous,,
 South Africa,Spices,0.86390047,1.241223833
 South Africa,Sugars,96.8176074,322.0547188
 South Africa,Vegetables,97.8862387,33.46059252
-South America,Alcohol,175.0694688,89.90466057
-South America,Dairy,371.6405844,213.8543622
-South America,Fats & Oils,69.8327467,600.2791522
-South America,Fruits,427.2339741,161.2827146
-South America,Grains (Starchy staples),591.2138356,1283.674885
-South America,"Legumes, Nuts & Seeds",87.18372376,221.3266928
-South America,Meats,376.3254974,582.2024553
-South America,Miscellaneous,,
-South America,Spices,35.76006418,30.69541487
-South America,Sugars,141.2646905,426.6527305
-South America,Vegetables,106.6311425,31.52607049
-South-Eastern Asia,Alcohol,29.42004019,29.98863538
-South-Eastern Asia,Dairy,19.30195525,10.67579157
-South-Eastern Asia,Fats & Oils,63.42650608,543.2898832
-South-Eastern Asia,Fruits,225.2234679,100.1322447
-South-Eastern Asia,Grains (Starchy staples),614.9185558,1769.817813
-South-Eastern Asia,"Legumes, Nuts & Seeds",53.53693257,123.2524911
-South-Eastern Asia,Meats,200.4287524,288.8810678
-South-Eastern Asia,Miscellaneous,,
-South-Eastern Asia,Spices,20.98393826,38.77538279
-South-Eastern Asia,Sugars,77.65423058,201.0528438
-South-Eastern Asia,Vegetables,157.7324115,44.69022614
-Southern Africa,Alcohol,208.327043,144.4259285
-Southern Africa,Dairy,152.2397826,85.21295787
-Southern Africa,Fats & Oils,14.60060295,127.3703778
-Southern Africa,Fruits,198.2870417,70.99955363
-Southern Africa,Grains (Starchy staples),522.0702085,1403.094016
-Southern Africa,"Legumes, Nuts & Seeds",15.43952082,51.02266875
-Southern Africa,Meats,205.1683793,348.6587304
-Southern Africa,Miscellaneous,,
-Southern Africa,Spices,0.762418024,1.259807956
-Southern Africa,Sugars,93.2609708,311.2777386
-Southern Africa,Vegetables,91.29210257,30.74728585
-Southern Asia,Alcohol,3.817647559,8.633714472
-Southern Asia,Dairy,229.4044155,133.1430245
-Southern Asia,Fats & Oils,17.16618893,147.9850416
-Southern Asia,Fruits,170.5833674,71.86042184
-Southern Asia,Grains (Starchy staples),524.343883,1510.437807
-Southern Asia,"Legumes, Nuts & Seeds",49.44402827,147.0627079
-Southern Asia,Meats,48.75292448,54.97620523
-Southern Asia,Miscellaneous,,
-Southern Asia,Spices,10.41906023,25.06180841
-Southern Asia,Sugars,85.79111666,216.6273252
-Southern Asia,Vegetables,180.4218392,47.46342277
-Southern Europe,Alcohol,263.0250278,169.6891554
-Southern Europe,Dairy,439.4820604,213.7532212
-Southern Europe,Fats & Oils,57.97080372,481.6039021
-Southern Europe,Fruits,584.8805719,220.3436941
-Southern Europe,Grains (Starchy staples),374.1550842,793.9698801
-Southern Europe,"Legumes, Nuts & Seeds",33.36291655,80.36899406
-Southern Europe,Meats,284.234762,380.1208412
-Southern Europe,Miscellaneous,,
-Southern Europe,Spices,0.970165298,1.284816924
-Southern Europe,Sugars,70.01238777,238.1755097
-Southern Europe,Vegetables,346.5355432,90.94988255
 Spain,Alcohol,350.3124763,204.152691
 Spain,Dairy,334.9150865,183.6204065
 Spain,Fats & Oils,79.83382165,689.2740058
@@ -2162,16 +1788,6 @@ Turkmenistan,Meats,185.8603028,391.0470813
 Turkmenistan,Spices,0,0
 Turkmenistan,Sugars,17.28213135,62.15735294
 Turkmenistan,Vegetables,244.7334316,60.24063745
-USSR,Alcohol,,
-USSR,Dairy,,
-USSR,Fats & Oils,,
-USSR,Fruits,,
-USSR,Grains (Starchy staples),,
-USSR,"Legumes, Nuts & Seeds",,
-USSR,Meats,,
-USSR,Spices,,
-USSR,Sugars,,
-USSR,Vegetables,,
 Uganda,Alcohol,215.2579269,86.25215894
 Uganda,Dairy,104.9758191,65.97165265
 Uganda,Fats & Oils,12.10896832,106.6561384
@@ -2292,50 +1908,6 @@ Viet Nam,Meats,280.5237632,530.0917167
 Viet Nam,Spices,53.59040734,125.6463436
 Viet Nam,Sugars,57.99116585,100.5318552
 Viet Nam,Vegetables,292.9327142,70.68525967
-Western Africa,Alcohol,139.2880208,57.17264047
-Western Africa,Dairy,35.66068271,23.43177742
-Western Africa,Fats & Oils,24.43743072,211.8834846
-Western Africa,Fruits,120.1954736,37.31417799
-Western Africa,Grains (Starchy staples),948.3860738,1687.33311
-Western Africa,"Legumes, Nuts & Seeds",64.61383568,233.0338877
-Western Africa,Meats,59.19705896,62.81004249
-Western Africa,Miscellaneous,,
-Western Africa,Spices,19.25995666,39.7819209
-Western Africa,Sugars,21.13407434,69.97642972
-Western Africa,Vegetables,116.8760385,33.86621593
-Western Asia,Alcohol,25.99641762,19.27683077
-Western Asia,Dairy,264.8326881,154.420647
-Western Asia,Fats & Oils,23.6310625,203.7362748
-Western Asia,Fruits,406.5796978,168.7349868
-Western Asia,Grains (Starchy staples),367.2236444,966.194552
-Western Asia,"Legumes, Nuts & Seeds",29.81930902,92.28012917
-Western Asia,Meats,107.3529414,145.3661045
-Western Asia,Miscellaneous,,
-Western Asia,Spices,4.851979495,9.652219873
-Western Asia,Sugars,65.7461359,230.3437477
-Western Asia,Vegetables,274.6918227,68.53688879
-Western Europe,Alcohol,317.2474426,211.4410373
-Western Europe,Dairy,970.1833257,501.20064
-Western Europe,Fats & Oils,68.42087231,558.7273916
-Western Europe,Fruits,159.7546899,58.21964299
-Western Europe,Grains (Starchy staples),614.4734639,1246.320841
-Western Europe,"Legumes, Nuts & Seeds",13.8344514,39.65894179
-Western Europe,Meats,348.4005849,521.8337722
-Western Europe,Miscellaneous,,
-Western Europe,Spices,0,0
-Western Europe,Sugars,128.2487272,448.3430728
-Western Europe,Vegetables,191.0990882,56.2292099
-World,Alcohol,102.094631,68.5320259
-World,Dairy,248.239469,140.4000847
-World,Fats & Oils,40.0096992,338.7156176
-World,Fruits,253.2969429,96.48493304
-World,Grains (Starchy staples),591.2485002,1461.372639
-World,"Legumes, Nuts & Seeds",44.46635003,138.0524412
-World,Meats,198.5995117,307.1813806
-World,Miscellaneous,,
-World,Spices,10.50253699,17.07358346
-World,Sugars,79.13139597,236.3479267
-World,Vegetables,323.4842194,84.59182084
 Yemen,Alcohol,1.254794521,0.6
 Yemen,Dairy,41.45509562,18.6247531
 Yemen,Fats & Oils,3.006034526,26.41263941
@@ -2347,17 +1919,6 @@ Yemen,Miscellaneous,,
 Yemen,Spices,2.280398872,4.208088235
 Yemen,Sugars,0.97298766,3.423966942
 Yemen,Vegetables,63.72192971,17.24869565
-Yugoslav SFR,Alcohol,,
-Yugoslav SFR,Dairy,,
-Yugoslav SFR,Fats & Oils,,
-Yugoslav SFR,Fruits,,
-Yugoslav SFR,Grains (Starchy staples),,
-Yugoslav SFR,"Legumes, Nuts & Seeds",,
-Yugoslav SFR,Meats,,
-Yugoslav SFR,Miscellaneous,,
-Yugoslav SFR,Spices,,
-Yugoslav SFR,Sugars,,
-Yugoslav SFR,Vegetables,,
 Zambia,Alcohol,77.89004964,31.66167576
 Zambia,Dairy,16.8011679,9.371153846
 Zambia,Fats & Oils,4.09431413,35.54840183
